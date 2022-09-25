@@ -1,1 +1,1 @@
-# DS54_machine_learning
+# machine_learning_mini_projects
