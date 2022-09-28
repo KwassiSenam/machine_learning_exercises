@@ -2,7 +2,7 @@
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
-* Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost
+* Machine Learning: scikit-learn, PyTorch
 
 # Contents
 This repository gather some of Machine Learning practical sessions I attended during my studies 
