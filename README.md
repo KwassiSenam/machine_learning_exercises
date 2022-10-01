@@ -5,5 +5,4 @@ Tools
 * Machine Learning: scikit-learn, PyTorch
 
 # Contents
-This repository gathers some of Machine Learning practical sessions I attended during my studies 
-at the University of Technology of Belfort-Montbéliard.
+This repository gathers some of Machine Learning and deep learning applications.
