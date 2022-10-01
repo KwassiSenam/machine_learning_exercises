@@ -1,4 +1,4 @@
-# Machine learning mini-projects
+# Machine learning projects
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
