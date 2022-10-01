@@ -2,7 +2,7 @@
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
-* Machine Learning: scikit-learn, PyTorch
+* Machine Learning: scikit-learn, TensorFlow, TensorFlow Hub
 
 # Contents
-This repository gathers some of Machine Learning and deep learning applications.
+This repository gathers some of <strong>Machine Learning</strong> and <strong>Deep Learning</strong> applications.
