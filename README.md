@@ -1,4 +1,4 @@
-# Machine learning projects
+# Machine learning exercises
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
